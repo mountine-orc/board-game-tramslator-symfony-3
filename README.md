@@ -1,3 +1,7 @@
+Board Game Translator. v. 0.1 Symfony3 Edition
+==============================================
+
+
 Symfony Standard Edition
 ========================
 
